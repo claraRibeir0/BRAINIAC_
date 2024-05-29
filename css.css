@@ -1,0 +1,55 @@
+#logoB{
+    height: 150px;
+
+}
+#chefao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#entrar{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#faca-login{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 10px;
+    color: gray;
+    font-weight: bold;
+    
+
+}
+input{
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+    background-color: rgb(187, 185, 185);
+    border: solid 2px rgb(187, 185, 185);
+    height: 40px;
+}
+::-webkit-input-placeholder{
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+
+}
+button{
+    font-weight: bold;
+    font-size: 11px;
+    height: 35px;
+    margin-left: 4px;
+    text-align: center;
+    width: 178px;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    border: solid 2px rgb(0, 0, 0);
+    color: white;
+}
